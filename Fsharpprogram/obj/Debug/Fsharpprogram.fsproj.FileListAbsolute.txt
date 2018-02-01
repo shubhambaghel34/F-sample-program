@@ -1,0 +1,9 @@
+c:\users\sbaghel\documents\visual studio 2017\Projects\Fsharpprogram\Fsharpprogram\bin\Debug\Fsharpprogram.exe.config
+c:\users\sbaghel\documents\visual studio 2017\Projects\Fsharpprogram\Fsharpprogram\bin\Debug\Fsharpprogram.XML
+c:\users\sbaghel\documents\visual studio 2017\Projects\Fsharpprogram\Fsharpprogram\bin\Debug\Fsharpprogram.exe
+c:\users\sbaghel\documents\visual studio 2017\Projects\Fsharpprogram\Fsharpprogram\bin\Debug\Fsharpprogram.pdb
+c:\users\sbaghel\documents\visual studio 2017\Projects\Fsharpprogram\Fsharpprogram\bin\Debug\FSharp.Core.dll
+c:\users\sbaghel\documents\visual studio 2017\Projects\Fsharpprogram\Fsharpprogram\bin\Debug\System.ValueTuple.dll
+c:\users\sbaghel\documents\visual studio 2017\Projects\Fsharpprogram\Fsharpprogram\bin\Debug\FSharp.Core.xml
+c:\users\sbaghel\documents\visual studio 2017\Projects\Fsharpprogram\Fsharpprogram\obj\Debug\Fsharpprogram.exe
+c:\users\sbaghel\documents\visual studio 2017\Projects\Fsharpprogram\Fsharpprogram\obj\Debug\Fsharpprogram.pdb
